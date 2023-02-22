@@ -18,5 +18,5 @@ Weather app created in Java. App developed in 2022.
 
 ## Contribution
 ### Assets
-- Icons made by fjstudio, freepik, Ajmal Naha, Kushal Jain, CreativeCons, Catalin Fertu, Pixel perfect, Dhaval Bharadava, surang, Kiranshastry from [flaticon.com](flaticon.com)
+- Icons made by fjstudio, freepik, Ajmal Naha, Kushal Jain, CreativeCons, Catalin Fertu, Pixel perfect, Dhaval Bharadava, surang, Kiranshastry from [flaticon.com](https://www.flaticon.com/)
 - Others
